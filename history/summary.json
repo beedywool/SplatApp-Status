@@ -4,9 +4,9 @@
     "url": "https://app.splatapp.ink",
     "icon": "https://icons.duckduckgo.com/ip3/app.splatapp.ink.ico",
     "slug": "splat-app-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 431,
     "timeMonth": 431,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-15": 0
+    }
   },
   {
     "name": "SplatApp Fileserver",
     "url": "https://cdn.splatapp.ink/assets/img/appIcon.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.splatapp.ink.ico",
     "slug": "splat-app-fileserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,14 +35,16 @@
     "timeWeek": 633,
     "timeMonth": 633,
     "timeYear": 633,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-15": 0
+    }
   },
   {
     "name": "SplatApp API",
     "url": "https://api.splatapp.ink/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.splatapp.ink.ico",
     "slug": "splat-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 357,
     "timeMonth": 357,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-15": 0
+    }
   },
   {
     "name": "SplatApp Demo",
@@ -70,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-15": 87,
+      "2024-09-15": 1330,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
