@@ -1,7 +1,7 @@
 url: https://api.splatapp.ink/health
-status: up
-code: 200
-responseTime: 294
-lastUpdated: 2024-09-22T23:10:51.881Z
+status: down
+code: 500
+responseTime: 346
+lastUpdated: 2024-09-23T16:13:36.738Z
 startTime: 2024-09-11T15:41:13.896Z
 generator: Upptime <https://github.com/upptime/upptime>
