@@ -5,7 +5,7 @@ sites:
   - name: SplatApp Client
     url: https://app.splatapp.ink
   - name: SplatApp Fileserver
-    url: https://cdn.splatapp.ink/assets/img/appIcon.png
+    url: https://cdn.splatapp.ink/assets/img/appIcon.webp
   - name: SplatApp API
     url: https://api.splatapp.ink/health
   - name: SplatApp Demo
